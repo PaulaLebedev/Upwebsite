@@ -4,7 +4,7 @@ html, body, .container {
 }
 
 .main {
-    background-image: url(ValmisTaustUp.png);
+    background-image: url(ValmisTaustUp2.png);
     background-repeat: no-repeat;
     background-size: 100% auto;
     object-fit: contain;
@@ -37,4 +37,19 @@ html, body, .container {
     font-size: 28px;
     color: white;
     max-width: 650px;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 130px;
+}
+
+.nav a {
+margin: 0 65px;
+font-family: 'Ubuntu', sans-serif;
+text-transform: uppercase;
+font-size: 45px;
+color: white;
+text-decoration: none;
 }
