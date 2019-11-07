@@ -17,7 +17,7 @@ html, body, .container {
     object-fit: contain;
 }
 
-.container {
+.content {
     padding: 0 150px;
     display: flex;
     flex-direction: column;
@@ -37,4 +37,13 @@ html, body, .container {
     font-size: 28px;
     color: white;
     max-width: 650px;
+}
+
+.navigation {
+    margin: auto 10px;
+}
+
+.container {
+    display: flex;
+    
 }
