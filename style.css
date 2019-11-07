@@ -4,7 +4,7 @@ html, body, .container {
 }
 
 .main {
-    background-image: url(up_taust1.png);
+    background-image: url(ValmisTaustUp.png);
     background-repeat: no-repeat;
     background-size: 100% auto;
     object-fit: contain;
