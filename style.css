@@ -70,3 +70,13 @@ text-decoration: none;
     background-size: 100% auto;
     object-fit: contain;
 }
+
+.castlol {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 96px;
+    color: white;
+    text-transform: uppercase;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 580px;
+}
