@@ -63,3 +63,10 @@ font-size: 45px;
 color: white;
 text-decoration: none;
 }
+
+.castsite {
+    background-image: url(backgrownd31.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    object-fit: contain;
+}
