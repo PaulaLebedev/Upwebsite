@@ -82,13 +82,27 @@ text-decoration: none;
 }
 
 .charanav {
-
+display:flex;
+justify-content: space-around;
 }
 
-.charanav2 {
-
+.navigationb {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    margin-right: auto 0px;
 }
 
-.charanav3 {
-    
+.navigationb a {
+    margin-top: 90px;
+}
+
+.nav-image {
+    margin-right: 100px;
+}
+
+.nav-image img:nth-child(2) {
+    margin-left: 30px;
+    margin-right: 30px;
 }
